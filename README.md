@@ -53,7 +53,7 @@ proc phreg data=work.lung_cancer;
 run;
 ```
 
-## 🚀 Motivation
+##  Motivation
 Although my academic background is heavily focused on **R** and Statistical Theory, I recognized that **SAS** is the standard for regulatory submissions in the Pharmaceutical Industry. I undertook this project to:
 1.  Bridge the gap in my undergraduate curriculum regarding Clinical Biostatistics.
 2.  Demonstrate the ability to adapt to new syntax and environments (`DATA steps`, `PROCs`) independently.
